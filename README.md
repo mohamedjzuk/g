@@ -1,3 +1,5 @@
+python finder.py --workers 16 --proxy-file proxies.txt -u https://discord.com/api/webhooks/1052313225464651776/ywnbmCbpVAwRjSoobYvidzdBnq16aOqX0C4Wlx3htv-WfX7QVb3PBL-Vwkz0ZRme2xi_
+
 # roblox-claimable-group-finder
 <p align="center"><img src="https://i.imgur.com/131wdCq.png" height="300" width="637"></p>
 
